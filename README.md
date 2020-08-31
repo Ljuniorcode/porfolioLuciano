@@ -33,10 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 ## 🌎 Instalações e uso
 
-Conando o repositório
 
 ```
-# Clone o repositório
+# Clonando o repositório
 $ git clone https://github.com/Ljuniorcode/portfolioLuciano.git
 ```
 
