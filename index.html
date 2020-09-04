@@ -214,13 +214,14 @@
             </div>
 
             <div>
-              <input type="radio" name="layout" id="layout-não">
-              <label for="layout-sim">Já tenho um layout</label>
+              <input type="radio" name="layout" id="layout-nao">
+              <label for="layout-nao">Já tenho um layout</label>
             </div>
           </div>
 
           <label for="prazo">Prazo</label>
-          <input type="range" name="prazo" id="prazo">
+          <input type="range" name="prazo" id="prazo" min="1" max="10">
+          <label id="preco">R$ 0,00</label>
           <button class="btn btn-orcamento" type="submit">Enviar</button>
 
         </form>
